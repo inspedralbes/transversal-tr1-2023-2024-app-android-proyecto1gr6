@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/border"
+    android:padding="10dp"
+    android:layout_marginTop="5dp"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/ComandaText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Comanda: "/>
+        <TextView
+            android:id="@+id/textViewIdLastOrder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ID Comanda"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/EstadoText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Estat: " />
+
+        <TextView
+            android:id="@+id/textViewEstadoLastOrder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Estat Comanda" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnRecollir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Recollir" />
+
+</LinearLayout>

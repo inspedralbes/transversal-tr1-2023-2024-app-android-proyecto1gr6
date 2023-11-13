@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.example.damtr1g6.app-mergeDebugResources-44:/layout/header.xml",
+        "source": "com.example.damtr1g6.app-main-47:/layout/header.xml"
+    },
+    {
+        "merged": "com.example.damtr1g6.app-mergeDebugResources-44:/layout/activity_product_detail.xml",
+        "source": "com.example.damtr1g6.app-main-47:/layout/activity_product_detail.xml"
+    },
+    {
+        "merged": "com.example.damtr1g6.app-mergeDebugResources-44:/layout/bottomsheet.xml",
+        "source": "com.example.damtr1g6.app-main-47:/layout/bottomsheet.xml"
+    },
+    {
+        "merged": "com.example.damtr1g6.app-mergeDebugResources-44:/layout/item_cart.xml",
+        "source": "com.example.damtr1g6.app-main-47:/layout/item_cart.xml"
+    },
+    {
+        "merged": "com.example.damtr1g6.app-mergeDebugResources-44:/layout/activity_login.xml",
+        "source": "com.example.damtr1g6.app-main-47:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.damtr1g6.app-mergeDebugResources-44:/layout/activity_last_order.xml",
+        "source": "com.example.damtr1g6.app-main-47:/layout/activity_last_order.xml"
+    },
+    {
+        "merged": "com.example.damtr1g6.app-mergeDebugResources-44:/layout/item_comanda.xml",
+        "source": "com.example.damtr1g6.app-main-47:/layout/item_comanda.xml"
+    },
+    {
+        "merged": "com.example.damtr1g6.app-mergeDebugResources-44:/layout/activity_carrito.xml",
+        "source": "com.example.damtr1g6.app-main-47:/layout/activity_carrito.xml"
+    },
+    {
+        "merged": "com.example.damtr1g6.app-mergeDebugResources-44:/layout/fragment_date_picker.xml",
+        "source": "com.example.damtr1g6.app-main-47:/layout/fragment_date_picker.xml"
+    },
+    {
+        "merged": "com.example.damtr1g6.app-mergeDebugResources-44:/layout/activity_comanda.xml",
+        "source": "com.example.damtr1g6.app-main-47:/layout/activity_comanda.xml"
+    },
+    {
+        "merged": "com.example.damtr1g6.app-mergeDebugResources-44:/layout/item_last_order.xml",
+        "source": "com.example.damtr1g6.app-main-47:/layout/item_last_order.xml"
+    },
+    {
+        "merged": "com.example.damtr1g6.app-mergeDebugResources-44:/layout/activity_main.xml",
+        "source": "com.example.damtr1g6.app-main-47:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.damtr1g6.app-mergeDebugResources-44:/layout/item_perfil.xml",
+        "source": "com.example.damtr1g6.app-main-47:/layout/item_perfil.xml"
+    },
+    {
+        "merged": "com.example.damtr1g6.app-mergeDebugResources-44:/layout/fragment_time_picker.xml",
+        "source": "com.example.damtr1g6.app-main-47:/layout/fragment_time_picker.xml"
+    },
+    {
+        "merged": "com.example.damtr1g6.app-mergeDebugResources-44:/layout/item_order_process.xml",
+        "source": "com.example.damtr1g6.app-main-47:/layout/item_order_process.xml"
+    },
+    {
+        "merged": "com.example.damtr1g6.app-mergeDebugResources-44:/layout/item_last_order_product.xml",
+        "source": "com.example.damtr1g6.app-main-47:/layout/item_last_order_product.xml"
+    },
+    {
+        "merged": "com.example.damtr1g6.app-mergeDebugResources-44:/layout/activity_register.xml",
+        "source": "com.example.damtr1g6.app-main-47:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.damtr1g6.app-mergeDebugResources-44:/layout/custom_toast_layout.xml",
+        "source": "com.example.damtr1g6.app-main-47:/layout/custom_toast_layout.xml"
+    },
+    {
+        "merged": "com.example.damtr1g6.app-mergeDebugResources-44:/layout/activity_perfil.xml",
+        "source": "com.example.damtr1g6.app-main-47:/layout/activity_perfil.xml"
+    },
+    {
+        "merged": "com.example.damtr1g6.app-mergeDebugResources-44:/layout/item_product.xml",
+        "source": "com.example.damtr1g6.app-main-47:/layout/item_product.xml"
+    }
+]
